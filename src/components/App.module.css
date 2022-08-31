@@ -1,0 +1,32 @@
+header {
+  background-color: #393e46;
+}
+
+nav {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 20px;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 1200px;
+  padding: 20px;
+}
+
+.navLink {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 2px solid #fcda05;
+  color: #fcda05;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.navLink.active {
+  color: #fffbe0;
+}
+
+.navLink:first-child {
+  margin-right: 20px;
+}
