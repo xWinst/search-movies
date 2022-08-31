@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/168.5a4f4da7.chunk.css","mappings":"AAAA,sCACE,kBACF,CACA,sBACE,kBACF","sources":["components/Reviews/Reviews.module.css"],"sourcesContent":[".item:not(:last-child) {\n  margin-bottom: 20px;\n}\n.title {\n  margin-bottom: 10px;\n}\n"],"names":[],"sourceRoot":""}
